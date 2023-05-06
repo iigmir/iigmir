@@ -4,7 +4,7 @@ My hobby is reading, writing, eating, playing games, and learning languages.
 
 ## Developing things
 
-Currently I am working with:
+I am working with:
 
 * HTML
 * CSS
