@@ -20,7 +20,7 @@ And I know some of PHP, MySQL and Ruby. I wish someday I can work with server si
 * My native is **Mandarin Chinese**.
     * 我的母語是中文。
 * I am good at **English**, so using English to me is fine.
-* I know some Japanese, although it's not as well as English.
+* I know some Japanese, although it's not as good as English.
     * 英語の比べてよくないが、日本語を話します。
 * I am currently learning Korean.
     * 한국어를 지금 배운다.
