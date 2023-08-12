@@ -13,7 +13,33 @@ I am working with:
     * VueJS
     * TypeScript
     
-And I know some of PHP, MySQL and Ruby. I wish someday I can work with server side development.
+And I know some PHP, MySQL and Ruby. I wish someday I can work with server-side development.
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iigmir&theme=neon"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iigmir&theme=flag-india"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iigmir&theme=neon" />
+</picture>
+
+### Some of my awful records
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=iigmir&show_icons=true&count_private=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=iigmir&show_icons=true&count_private=true&theme=vue"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=iigmir&show_icons=true&count_private=true&theme=tokyonight" />
+</picture>
 
 ## Natural language things
 
