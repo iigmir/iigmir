@@ -13,7 +13,7 @@ I am working with:
     * VueJS
     * TypeScript
     
-And I know some PHP, MySQL and Ruby. I wish someday I can work with server-side development.
+And I know some PHP, MySQL and Ruby. I hope someday I can work with server-side development.
 
 <picture>
   <source
@@ -27,7 +27,7 @@ And I know some PHP, MySQL and Ruby. I wish someday I can work with server-side 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iigmir&theme=neon" />
 </picture>
 
-### Some of my awful records
+### My records
 
 <picture>
   <source
