@@ -12,8 +12,8 @@ I am working with:
 * JavaScript
     * VueJS
     * TypeScript
-    
-And I know some PHP, MySQL and Ruby. I hope someday I can work with server-side development.
+
+And I know some PHP, MySQL and expressJS. I hope someday I can work with server-side development.
 
 <picture>
   <source
@@ -40,6 +40,8 @@ And I know some PHP, MySQL and Ruby. I hope someday I can work with server-side 
   />
   <img src="https://github-readme-stats.vercel.app/api?username=iigmir&show_icons=true&count_private=true&theme=tokyonight" />
 </picture>
+
+<img src="https://github-profile-trophy.vercel.app/?username=iigmir&column=3" />
 
 ## Natural language things
 
