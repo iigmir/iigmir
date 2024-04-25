@@ -1,4 +1,4 @@
-Hi there 👋 This is iigmir, a frontend developer from Taiwan since 2017. he/his/him. Ask me at `roc120j@gmail.com`.
+Hi there 👋 This is iigmir, a developer from Taiwan since 2017. he/his/him. Ask me at `roc120j@gmail.com`.
 
 My hobby is reading, writing, eating, playing games, and learning languages.
 
