@@ -1,4 +1,4 @@
-Hi there 👋 This is iigmir, a frontend developer from Taiwan since 2017. he/his/him.
+Hi there 👋 This is iigmir, a frontend developer from Taiwan since 2017. he/his/him. Ask me at `roc120j@gmail.com`.
 
 My hobby is reading, writing, eating, playing games, and learning languages.
 
@@ -12,8 +12,14 @@ I am working with:
 * JavaScript
     * VueJS
     * TypeScript
+    * expressJS
+* PHP
+* mySQL, mariaDB
 
-And I know some PHP, MySQL and expressJS. I hope someday I can work with server-side development.
+And I am currently learning Docker and MongoDB.
+
+
+### My records
 
 <picture>
   <source
@@ -25,20 +31,6 @@ And I know some PHP, MySQL and expressJS. I hope someday I can work with server-
     media="(prefers-color-scheme: light)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iigmir&theme=neon" />
-</picture>
-
-### My records
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=iigmir&show_icons=true&count_private=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=iigmir&show_icons=true&count_private=true&theme=vue"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=iigmir&show_icons=true&count_private=true&theme=tokyonight" />
 </picture>
 
 <img src="https://github-profile-trophy.vercel.app/?username=iigmir&column=3" />
