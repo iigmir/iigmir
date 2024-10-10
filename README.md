@@ -1,6 +1,6 @@
 Hi there 👋 This is iigmir, a developer from Taiwan since 2017. he/his/him. Ask me at `roc120j@gmail.com`.
 
-My hobby is reading, writing, eating, playing games, and learning languages.
+My hobbies are reading, writing, eating, playing games, learning languages, and anything that amuse me.
 
 ## Developing things
 
@@ -15,9 +15,6 @@ I am working with:
     * expressJS
 * PHP
 * mySQL, mariaDB
-
-And I am currently learning Docker and MongoDB.
-
 
 ### My records
 
@@ -39,7 +36,7 @@ And I am currently learning Docker and MongoDB.
 
 * My native is **Mandarin Chinese**.
     * 我的母語是中文。
-* I am good at **English**, so using English to me is fine.
+* I am good at **English**, so using English is fine.
 * I know some Japanese, although it's not as good as English.
     * 英語の比べてよくないが、日本語を話します。
 * I am currently learning Korean.
